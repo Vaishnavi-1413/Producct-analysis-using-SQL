@@ -1,3 +1,4 @@
+-- Data cleaning
 select * 
 from orders
 Limit 10;
