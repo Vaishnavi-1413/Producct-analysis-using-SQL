@@ -1,4 +1,3 @@
-
 # Product Analysis
 ## Overview
 The Product Analysis project is a comprehensive examination of a particular product to gain valuable insights into its performance, market positioning, and potential areas for improvement. This project employs a data-driven approach, utilizing SQL queries and analysis to extract meaningful information from the product-related datasets.
